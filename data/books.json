@@ -1,0 +1,34 @@
+[
+    {
+        "name": "The soul of money",
+        "author": "Lynne Twist",
+        "date": "17-08-2003",
+        "ISBN": "0-333-05097-1",
+        "city": "New York",
+        "id": "bbff5bae-4c8b-4f64-9721-ff09e3b7dd10"
+    },
+    {
+        "name": "Remember Every Name Every Time",
+        "author": "Benjamin Levy",
+        "date": "25-10-2002",
+        "ISBN": "0-684-87393-1",
+        "city": "New York",
+        "id": "5425f827-6951-407d-a44c-df98b9f6b51f"
+    },
+    {
+        "name": "The soul of money",
+        "author": "Lynne Twist",
+        "date": "20-01-2003",
+        "ISBN": "0-333-05097-1",
+        "city": "New York",
+        "id": "5b3757e7-5e16-44ef-b863-51a44f411863"
+    },
+    {
+        "name": "The future of bitcoin",
+        "author": "Binance tracy",
+        "date": "20-01-2008",
+        "ISBN": "0-333-05048-1",
+        "city": "California",
+        "id": "48804696-7f30-4a23-bb58-9ff2c6ac78ff"
+    }
+]
